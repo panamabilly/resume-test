@@ -1,0 +1,23 @@
+{
+    "name": "Bill Sweeney",
+    "website": "https://github.com/panamabilly",
+    "linkedin": "https://www.linkedin.com/in/billsweeney85/",
+    "github": "panamabilly",
+    "email": "billsweeney85@gmail.com",
+    "resume": "https://github.com/panamabilly/Resume",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
